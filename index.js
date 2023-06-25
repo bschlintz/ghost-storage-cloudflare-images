@@ -8,7 +8,7 @@ const StorageBase = require("ghost-storage-base"),
 
 const CLOUDFLARE_IMAGES_API_BASE_URL = "https://api.cloudflare.com/client/v4";
 
-class CloudflareStorageAdapter extends StorageBase {
+class CloudflareImagesStorageAdapter extends StorageBase {
   /**
    *  @override
    */
@@ -144,4 +144,4 @@ class CloudflareStorageAdapter extends StorageBase {
   }
 }
 
-module.exports = CloudflareStorageAdapter;
+module.exports = CloudflareImagesStorageAdapter;

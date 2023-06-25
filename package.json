@@ -1,11 +1,8 @@
 {
-  "name": "ghost-storage-cloudflare",
+  "name": "ghost-storage-cloudflare-images",
   "version": "0.0.1",
-  "description": "",
+  "description": "Cloudflare Images Storage Adapter for Ghost",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "author": "Brad Schlintz",
   "license": "MIT",
   "dependencies": {

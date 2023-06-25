@@ -1,7 +1,7 @@
 {
   "storage": {
-    "active": "ghost-storage-cloudflare",
-    "ghost-storage-cloudflare": {
+    "active": "ghost-storage-cloudflare-images",
+    "ghost-storage-cloudflare-images": {
       "idPrefix": "content/",
       "variant": "default",
       "overwrite": true,
