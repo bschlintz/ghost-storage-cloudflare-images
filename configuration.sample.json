@@ -1,0 +1,16 @@
+{
+  "storage": {
+    "active": "ghost-storage-cloudflare",
+    "ghost-storage-cloudflare": {
+      "idPrefix": "content/",
+      "variant": "default",
+      "overwrite": true,
+      "accountId": "",
+      "authToken": "",
+      "cdnBaseUrl": ""
+    }
+  },
+  "imageOptimization": {
+    "resize": false
+  }
+}
